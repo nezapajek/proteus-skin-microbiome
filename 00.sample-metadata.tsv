@@ -1,0 +1,15 @@
+sampleid  	sample      	location       	origin        	year        	parkelj     	specimen          	population
+#q2:types 	categorical 	categorical    	categorical   	categorical 	categorical 	categorical          	categorical
+P01A       	P01A         	Planinska_jama 	Paa200_t0     	2015        	no          	Paa200          	linija reke Ljubljanice
+P03A       	P03A         	Planinska_jama 	Paa201_t0     	2015        	no          	Paa201          	linija reke Ljubljanice
+P05A       	P05A         	Stobe          	Paa204_t10d   	2016        	no          	Paa204          	dolenjska linija
+P07A       	P07A         	Planinska_jama 	Paa209_t0     	2017        	no          	Paa209          	linija reke Ljubljanice
+P09A       	P09A         	Planinska_jama 	Paa210_t0     	2019        	no          	Paa210          	linija reke Ljubljanice
+P11A      	P11A        	Planinska_jama 	Paa211_t0     	2018        	no          	Paa211          	linija reke Ljubljanice
+P13A      	P13A        	Planinska_jama 	Paa219_t0     	2019        	no          	Paa219          	linija reke Ljubljanice
+P15A      	P15A        	Planinska_jama 	Paa220_t0     	2019        	no          	Paa220          	linija reke Ljubljanice
+P17A      	P17A        	Planinska_jama 	Paa221_t0     	2019        	no          	Paa221          	linija reke Ljubljanice
+P19A      	P19A        	Obrsec         	PB271_parkelj 	2016        	yes         	PB271          	črna podvrsta
+P20A      	P20A        	Obrsec         	PB272_parkelj 	2016        	yes         	PB272          	črna podvrsta
+P21A      	P21A        	Jelsevnik      	PB644_parkelj 	2015        	yes         	PB644          	črna podvrsta
+P22A      	P22A        	Obrsec         	PAP20_parkelj 	2020        	yes         	PAP20          	črna podvrsta
