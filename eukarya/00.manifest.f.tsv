@@ -1,0 +1,14 @@
+sample-id	absolute-filepath	direction
+P01A	$WORKDIR/seq/18S-WP1_S233_R1_001.fastq.gz	forward
+P03A	$WORKDIR/seq/18S-WP3_S235_R1_001.fastq.gz	forward
+P05A	$WORKDIR/seq/18S-WP5_S237_R1_001.fastq.gz	forward
+P07A	$WORKDIR/seq/18S-WP7_S239_R1_001.fastq.gz	forward
+P09A	$WORKDIR/seq/18S-WP9_S241_R1_001.fastq.gz	forward
+P11A	$WORKDIR/seq/18S-WP11_S243_R1_001.fastq.gz	forward
+P13A	$WORKDIR/seq/18S-WP13_S245_R1_001.fastq.gz	forward
+P15A	$WORKDIR/seq/18S-WP15_S247_R1_001.fastq.gz	forward
+P17A	$WORKDIR/seq/18S-WP17_S249_R1_001.fastq.gz	forward
+P19A	$WORKDIR/seq/18S-WP19_S251_R1_001.fastq.gz	forward
+P20A	$WORKDIR/seq/18S-WP20_S252_R1_001.fastq.gz	forward
+P21A	$WORKDIR/seq/18S-WP21_S253_R1_001.fastq.gz	forward
+P22A	$WORKDIR/seq/18S-WP22_S254_R1_001.fastq.gz	forward

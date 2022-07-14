@@ -1,0 +1,14 @@
+sample-id	absolute-filepath	direction
+P01A	$WORKDIR/seq/SSU-WP1_S180_R1_001.fastq.gz	forward
+P03A	$WORKDIR/seq/SSU-WP3_S182_R1_001.fastq.gz	forward
+P05A	$WORKDIR/seq/SSU-WP5_S184_R1_001.fastq.gz	forward
+P07A	$WORKDIR/seq/SSU-WP7_S186_R1_001.fastq.gz	forward
+P09A	$WORKDIR/seq/SSU-WP9_S188_R1_001.fastq.gz	forward
+P11A	$WORKDIR/seq/SSU-WP11_S190_R1_001.fastq.gz	forward
+P13A	$WORKDIR/seq/SSU-WP13_S192_R1_001.fastq.gz	forward
+P15A	$WORKDIR/seq/SSU-WP15_S194_R1_001.fastq.gz	forward
+P17A	$WORKDIR/seq/SSU-WP17_S196_R1_001.fastq.gz	forward
+P19A	$WORKDIR/seq/SSU-WP19_S198_R1_001.fastq.gz	forward
+P20A	$WORKDIR/seq/SSU-WP20_S199_R1_001.fastq.gz	forward
+P21A	$WORKDIR/seq/SSU-WP21_S200_R1_001.fastq.gz	forward
+P22A	$WORKDIR/seq/SSU-WP22_S201_R1_001.fastq.gz	forward
