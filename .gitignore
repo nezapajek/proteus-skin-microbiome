@@ -6,8 +6,6 @@ seq/
 database/
 
 # qiime2
-*.qza
-*.qzv
 *.fasta
 *.biom
 
