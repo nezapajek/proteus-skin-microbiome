@@ -4,7 +4,7 @@ For my Master Thesis I analyzed the amplicon sequencing data of cutaneous bacter
 
 ## DESCRIPTION
 - Pipeline can be used for any microbiome DNA metabarcoding analysis
-- Single-end analysis
+- Single-end analysis (done), Paired-end pipeline (in progress)
 - DNA Metabarcoding of Bacteria, Archaea (16S rRNA), Eukaryota (18S rRNA), Fungi (ITS2)
 - Raw Data = Demultiplexed Illumina sequences (MiSeq) in .fastq format
 
