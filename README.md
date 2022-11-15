@@ -8,9 +8,6 @@ For my Master Thesis I analyzed the amplicon sequencing data of cutaneous bacter
 - DNA Metabarcoding of Bacteria, Archaea (16S rRNA), Eukaryota (18S rRNA), Fungi (ITS2)
 - Raw Data = Demultiplexed Illumina sequences (MiSeq) in .fastq format
 
-## REQUIREMENTS
-- latest Qiime2 ver. 
-
 ## DOCUMENTATION
 
 [Qiime2 Documentation](https://docs.qiime2.org/2022.8/) \
