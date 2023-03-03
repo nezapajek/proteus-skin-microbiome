@@ -49,10 +49,16 @@ def remove_duplicates(row):
         if duplicate_id is not None:
             count = counts[duplicate_id]
             duplicate_str = unique_values[duplicate_id]
-            joined_str = "|".join(row[columns].values[::-1])
-            row[columns] = re.sub(
-                duplicate_str, f"Unclass. {duplicate_str}", joined_str, count=count - 1
-            ).split("|")[::-1]
+            to_replace = count - 1
+            new_vals = []
+            for v in row[columns].values[::-1]:
+                new_v = v
+                if v == duplicate_str and to_replace > 0:
+                    new_v = f"Unclass. {duplicate_str}"
+                    to_replace -= 1
+                new_vals.append(new_v)
+            row[columns] = new_vals[::-1]
+            
     except:
         pass
     return row
