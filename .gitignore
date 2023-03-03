@@ -138,3 +138,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# some big files
+classifier-B-341F_802R.qza
+silva-138-99-seqs.qza
+silva-138-99-tax.qza
+ref_seqs_341F_802R.qza
